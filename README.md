@@ -5,7 +5,7 @@ This repository showcases end-to-end, real-world project demonstrating my abilit
 
 Translate business needs into clear requirements\
 Analyze data using Excel\
-Communicate insights to stakeholders\
+Communicate insights to stakeholders
 
 ## 🎯 Goal
 
