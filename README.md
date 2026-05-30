@@ -3,9 +3,9 @@
 ## 👋 Welcome
 This repository showcases end-to-end, real-world project demonstrating my ability to:
 
-Translate business needs into clear requirements\
-Analyze data using Excel\
-Communicate insights to stakeholders
+ Translate business needs into clear requirements\
+ Analyze data using Excel\
+ Communicate insights to stakeholders
 
 ## 🎯 Goal
 
