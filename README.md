@@ -1,4 +1,4 @@
-# Excel-Portfolio
+# Project 1: Data Analysis - Trash Bag Category Performance (Amazon US)
 Showcasing analytical insights and advanced Excel solutions through real-world projects.
 
 **Key Takeaways**
