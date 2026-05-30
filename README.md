@@ -21,11 +21,11 @@ Attached Excel file with data contains weekly retail sales and pricing data for 
 Data Analysis: Excel (Pivot)
 
 ## 🚀 **Key Takeaways**
-*Insight 1:  Weekly sales performance has shifted upward by roughly 54% compared to last year.
-*Insight 2: Prime Day is the annual high point -  Current Year’s Prime Day peak  exceeded the previous year’s performance during the same period, suggesting more effective promotions or higher customer traffic.
-*Insight 3: Market share remains highly concentrated at the top, with Happy, Simple, and Thrifty controlling a combined 77.2% of the total market. While Thrifty emerged as the top gainer (+3.7% share increase), Happy faced the most significant decline
-*Insight 4: Average selling price fell 4.2% year-over-year and in H1 2017 struggled to reach 2016 levels. Since week 40, prices started recovering and finally outperform previous year levels.
-*Deliverable: Presentation that tracks "Real-time Sales vs. Targets" to assist daily decision-making.
+* Insight 1:  Weekly sales performance has shifted upward by roughly 54% compared to last year.
+* Insight 2: Prime Day is the annual high point -  Current Year’s Prime Day peak  exceeded the previous year’s performance during the same period, suggesting more effective promotions or higher customer traffic.
+* Insight 3: Market share remains highly concentrated at the top, with Happy, Simple, and Thrifty controlling a combined 77.2% of the total market. While Thrifty emerged as the top gainer (+3.7% share increase), Happy faced the most significant decline
+* Insight 4: Average selling price fell 4.2% year-over-year and in H1 2017 struggled to reach 2016 levels. Since week 40, prices started recovering and finally outperform previous year levels.
+* Deliverable: Presentation that tracks "Real-time Sales vs. Targets" to assist daily decision-making.
 
 <img width="1209" height="683" alt="image" src="https://github.com/user-attachments/assets/ca78bb10-9827-4005-9f74-0a063a5d8e9f" />
 
