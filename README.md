@@ -8,6 +8,11 @@ This repository showcases end-to-end, real-world project demonstrating my abilit
  * Communicate insights to stakeholders
 
 ## 🎯 Goal
+Main aim was to find key insights, patterns, and trends creating a narrative and presenting it to a client. 
+
+Scenario: Your client, the VP of eCommerce of a large trash bag company, has a meeting tomorrow with her CEO. She needs your help preparing 4–10 PowerPoint slides summarizing the state of the trash bag category on Amazon US, with a focus on category performance and the competitive landscape.
+
+Attached Excel file with data contains weekly retail sales and pricing data for every trash bag sold on Amazon US (by SKU, by brand, etc.) over the past ~23 months. Note: This dataset is anonymized, over five years old, and does not reflect current client data.
 
 ## 🛠️ Tool
 Excel
