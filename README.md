@@ -1,4 +1,4 @@
-# 📊 Project 1: Data Analysis - Trash Bag Category Performance (Amazon US)
+# 📊 Project 1: Business Analysis - Trash Bag Category Performance (Amazon US)
 
 ## 👋 Welcome
 This repository showcases end-to-end, real-world project demonstrating my ability to:
