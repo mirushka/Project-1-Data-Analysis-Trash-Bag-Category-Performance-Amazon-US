@@ -1,13 +1,16 @@
 # 📊 Project 1: Data Analysis - Trash Bag Category Performance (Amazon US)
 
-👋 Welcome
+#👋 Welcome\
 This repository showcases end-to-end, real-world project demonstrating my ability to:
 
 Translate business needs into clear requirements\
 Analyze data using Excel\
 Communicate insights to stakeholders\
 
+#🎯 Goal
 
+#Tool
+Excel
 
 **Key Takeaways**
 <img width="1209" height="683" alt="image" src="https://github.com/user-attachments/assets/ca78bb10-9827-4005-9f74-0a063a5d8e9f" />
